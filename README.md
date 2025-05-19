@@ -1,9 +1,9 @@
 Nome: João Paulo
 
-PFUS-01
+Turma: PFUS-01
 
-Uc-Versionamento
+Unidade Corricular: Uc-Versionamento
 
-Água viva
+Empresa: Água viva
 
 Sem versionamento, cada mudança é um tiro no escuro — com versionamento, cada commit é um passo firme rumo ao caos controlado.
